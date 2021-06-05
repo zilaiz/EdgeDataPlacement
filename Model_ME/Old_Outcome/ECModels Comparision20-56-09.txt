@@ -1,0 +1,54 @@
+-------------- Setting 1 --------------
+----Servernumber Test 1----
+ServersNumber:10  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [4 | 2.067, 2.167, 2.583, 2.802]
+ServersNumber:15  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [6.2 | 3.3, 3.383, 4.1, 4.384]
+ServersNumber:20  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [9.6 | 4.25, 4.433, 5.667, 6.08]
+ServersNumber:25  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [12.4 | 5.45, 5.6, 7.367, 7.883]
+ServersNumber:30  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [15.9 | 6.3, 6.683, 9.1, 9.448]
+ServersNumber:35  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [20 | 7.4, 7.7, 10.6, 11.092]
+
+
+----Denstiy Test 1----
+ServersNumber:20  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [9.8 | 4.25, 4.35, 5.5, 6.173]
+ServersNumber:20  Density:1.3  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [9.1 | 3.05, 3.167, 4.55, 5.007]
+ServersNumber:20  Density:1.6  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [6.1 | 2.317, 2.403, 3.917, 3.869]
+ServersNumber:20  Density:1.9  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [4.1 | 1.698, 1.733, 2.538, 2.643]
+ServersNumber:20  Density:2.2  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [3.1 | 1.383, 1.425, 1.591, 2.015]
+ServersNumber:20  Density:2.5  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [3.5 | 1.34, 1.348, 1.783, 2.027]
+
+
+----Hops Test 1----
+ServersNumber:20  Density:1  Hops:1  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [13 | 3, 8, 9, 9.65]
+ServersNumber:20  Density:1  Hops:2  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [13 | 4, 4, 5.5, 6]
+ServersNumber:20  Density:1  Hops:3  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [12 | 3, 3, 4.5, 4.475]
+ServersNumber:20  Density:1  Hops:4  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [2 | 2.5, 2.5, 4, 3.573]
+ServersNumber:20  Density:1  Hops:5  [replicacosts | cplexcosts, votecosts, degreecosts, randomcosts] : [10 | 2, 2, 2, 2.893]
+
+
+
+
+-------------- Setting 2 --------------
+----Servernumber Test 2----
+ServersNumber:200  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [81.1 | 17.067, 50.217, 47.005]
+ServersNumber:300  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [137.4 | 25.017, 75.375, 74.83]
+ServersNumber:400  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [205.6 | 33.833, 113.9, 114.872]
+ServersNumber:500  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [306.9 | 41.692, 139.567, 136.154]
+ServersNumber:600  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [302.9 | 50.2, 170.3, 167.436]
+ServersNumber:700  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [408.3 | 58.333, 210.342, 201.942]
+
+
+----Denstiy Test 2----
+ServersNumber:200  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [88.6 | 17.15, 52.783, 50.664]
+ServersNumber:200  Density:2.6  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [57.2 | 10.225, 26.624, 27.818]
+ServersNumber:200  Density:3.2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [39.5 | 7.063, 19.495, 19.659]
+ServersNumber:200  Density:3.8  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [23.2 | 4.947, 10.859, 11.305]
+ServersNumber:200  Density:4.4  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [17.1 | 3.559, 5.873, 6.852]
+ServersNumber:200  Density:5  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [19.5 | 3.006, 5.326, 5.762]
+
+
+----Hops Test 2----
+ServersNumber:200  Density:2  Hops:1  [replicacosts | votecosts, degreecosts, randomcosts] : [176 | 53, 89.5, 97.45]
+ServersNumber:200  Density:2  Hops:2  [replicacosts | votecosts, degreecosts, randomcosts] : [80 | 17.333, 62.333, 52.367]
+ServersNumber:200  Density:2  Hops:3  [replicacosts | votecosts, degreecosts, randomcosts] : [26 | 5.714, 17.5, 18.608]
+ServersNumber:200  Density:2  Hops:4  [replicacosts | votecosts, degreecosts, randomcosts] : [5 | 2.333, 4.75, 5.517]
+ServersNumber:200  Density:2  Hops:5  [replicacosts | votecosts, degreecosts, randomcosts] : [4 | 1, 1, 1.927]

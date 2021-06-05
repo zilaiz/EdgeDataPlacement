@@ -1,0 +1,234 @@
+-----------------------  Set 1 ------ 5 Edge Servers  ----------------------
+
+EDC Model
+averageCost = 1.84
+averageBenefits = 17.01
+averageBenetifPerReplica = 9.51
+averageExecutionTime = 0.015059999999999988
+
+Random Model
+averageCost = 2.78
+averageBenefits = 17.4
+averageBenetifPerReplica = 6.5325
+averageExecutionTime = 2.0E-5
+
+Greedy Connection Model
+averageCost = 2.2
+averageBenefits = 16.15
+averageBenetifPerReplica = 8.193333333333333
+averageExecutionTime = 6.0E-5
+
+Greedy Covered Users Model
+averageCost = 2.8
+averageBenefits = 18.35
+averageBenetifPerReplica = 7.046666666666668
+averageExecutionTime = 1.0E-5
+
+-----------------------  Set 1 ------ 10 Edge Servers  ----------------------
+
+EDC Model
+averageCost = 3.6
+averageBenefits = 33.34
+averageBenetifPerReplica = 9.417499999999999
+averageExecutionTime = 0.04267999999999999
+
+Random Model
+averageCost = 6.75
+averageBenefits = 37.16
+averageBenetifPerReplica = 5.70188888888889
+averageExecutionTime = 1.0E-5
+
+Greedy Connection Model
+averageCost = 5.1
+averageBenefits = 34.27
+averageBenetifPerReplica = 7.121047619047614
+averageExecutionTime = 2.0E-5
+
+Greedy Covered Users Model
+averageCost = 6.61
+averageBenefits = 37.82
+averageBenetifPerReplica = 6.0033055555555555
+averageExecutionTime = 1.2E-4
+
+-----------------------  Set 1 ------ 15 Edge Servers  ----------------------
+
+EDC Model
+averageCost = 5.43
+averageBenefits = 48.45
+averageBenetifPerReplica = 8.948285714285715
+averageExecutionTime = 0.22745
+
+Random Model
+averageCost = 10.4
+averageBenefits = 54.11
+averageBenetifPerReplica = 5.406068986568985
+averageExecutionTime = 2.0E-5
+
+Greedy Connection Model
+averageCost = 7.96
+averageBenefits = 50.06
+averageBenetifPerReplica = 6.457585858585859
+averageExecutionTime = 2.0E-5
+
+Greedy Covered Users Model
+averageCost = 10.67
+averageBenefits = 55.57
+averageBenetifPerReplica = 5.316346764346764
+averageExecutionTime = 2.0E-5
+
+-----------------------  Set 1 ------ 20 Edge Servers  ----------------------
+
+EDC Model
+averageCost = 7.28
+averageBenefits = 67.18
+averageBenetifPerReplica = 9.283321428571428
+averageExecutionTime = 4.65201
+
+Random Model
+averageCost = 14.77
+averageBenefits = 75.51
+averageBenetifPerReplica = 5.171116094303014
+averageExecutionTime = 2.0E-5
+
+Greedy Connection Model
+averageCost = 11.12
+averageBenefits = 70.12
+averageBenetifPerReplica = 6.407358559740913
+averageExecutionTime = 3.0E-5
+
+Greedy Covered Users Model
+averageCost = 14.86
+averageBenefits = 76.8
+averageBenetifPerReplica = 5.314974611387925
+averageExecutionTime = 2.0E-5
+
+-----------------------  Set 2 ------  Edge Density = 1.0  ----------------------
+
+EDC Model
+averageCost = 5.43
+averageBenefits = 50.53
+averageBenetifPerReplica = 9.384642857142854
+averageExecutionTime = 0.22962000000000005
+
+Random Model
+averageCost = 10.61
+averageBenefits = 56.06
+averageBenetifPerReplica = 5.395201881451881
+averageExecutionTime = 1.0E-5
+
+Greedy Connection Model
+averageCost = 8.27
+averageBenefits = 53.15
+averageBenetifPerReplica = 6.6349303751803745
+averageExecutionTime = 1.0E-5
+
+Greedy Covered Users Model
+averageCost = 10.53
+averageBenefits = 57.48
+averageBenetifPerReplica = 5.642761183261184
+averageExecutionTime = 2.0E-5
+
+-----------------------  Set 2 ------  Edge Density = 1.5  ----------------------
+
+EDC Model
+averageCost = 4.23
+averageBenefits = 46.18
+averageBenetifPerReplica = 10.964833333333333
+averageExecutionTime = 0.16938000000000006
+
+Random Model
+averageCost = 8.91
+averageBenefits = 52.82
+averageBenetifPerReplica = 6.208952131202134
+averageExecutionTime = 0.0
+
+Greedy Connection Model
+averageCost = 7.83
+averageBenefits = 51.22
+averageBenetifPerReplica = 6.993083860583859
+averageExecutionTime = 0.0
+
+Greedy Covered Users Model
+averageCost = 8.95
+averageBenefits = 55.02
+averageBenetifPerReplica = 6.375513347763347
+averageExecutionTime = 2.0E-5
+
+-----------------------  Set 2 ------  Edge Density = 2.0  ----------------------
+
+EDC Model
+averageCost = 3.5
+averageBenefits = 42.35
+averageBenetifPerReplica = 12.237499999999997
+averageExecutionTime = 0.14415999999999998
+
+Random Model
+averageCost = 8.14
+averageBenefits = 49.91
+averageBenetifPerReplica = 6.514221861471862
+averageExecutionTime = 2.0E-5
+
+Greedy Connection Model
+averageCost = 6.38
+averageBenefits = 46.2
+averageBenetifPerReplica = 7.8868936896436885
+averageExecutionTime = 1.0E-5
+
+Greedy Covered Users Model
+averageCost = 7.7
+averageBenefits = 50.72
+averageBenetifPerReplica = 6.832823842823845
+averageExecutionTime = 4.0E-5
+
+-----------------------  Set 2 ------  Edge Density = 2.5  ----------------------
+
+EDC Model
+averageCost = 3.03
+averageBenefits = 42.92
+averageBenetifPerReplica = 14.278333333333332
+averageExecutionTime = 0.11663000000000004
+
+Random Model
+averageCost = 6.57
+averageBenefits = 48.04
+averageBenetifPerReplica = 7.8994884559884575
+averageExecutionTime = 0.0
+
+Greedy Connection Model
+averageCost = 5.21
+averageBenefits = 45.79
+averageBenetifPerReplica = 9.630277777777774
+averageExecutionTime = 3.0E-5
+
+Greedy Covered Users Model
+averageCost = 6.58
+averageBenefits = 51.27
+averageBenetifPerReplica = 8.212053391053393
+averageExecutionTime = 1.0E-5
+
+-----------------------  Set 2 ------  Edge Density = 3.0  ----------------------
+
+EDC Model
+averageCost = 2.62
+averageBenefits = 40.33
+averageBenetifPerReplica = 15.668333333333333
+averageExecutionTime = 0.07892000000000002
+
+Random Model
+averageCost = 5.51
+averageBenefits = 44.58
+averageBenetifPerReplica = 8.52036111111111
+averageExecutionTime = 2.0E-5
+
+Greedy Connection Model
+averageCost = 4.17
+averageBenefits = 41.35
+averageBenetifPerReplica = 11.168845238095237
+averageExecutionTime = 0.0
+
+Greedy Covered Users Model
+averageCost = 5.53
+averageBenefits = 46.57
+averageBenetifPerReplica = 9.071317099567098
+averageExecutionTime = 1.0E-5
+

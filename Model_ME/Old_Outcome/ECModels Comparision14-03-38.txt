@@ -1,0 +1,16 @@
+----Servernumber Test----
+ServersNumber:10  Density:1.0  replicacosts:4.0  cplexcosts:2.35  votecosts:2.3833333333333337  degreecosts:2.5833333333333335  randomcosts:2.85
+ServersNumber:15  Density:1.0  replicacosts:6.3  cplexcosts:3.25  votecosts:3.3166666666666673  degreecosts:4.05  randomcosts:4.516666666666667
+ServersNumber:20  Density:1.0  replicacosts:9.9  cplexcosts:4.05  votecosts:4.3  degreecosts:5.533333333333333  randomcosts:6.2
+ServersNumber:25  Density:1.0  replicacosts:14.2  cplexcosts:5.283333333333333  votecosts:5.816666666666666  degreecosts:7.366666666666667  randomcosts:8.1
+ServersNumber:30  Density:1.0  replicacosts:16.7  cplexcosts:6.1  votecosts:6.4333333333333345  degreecosts:9.033333333333333  randomcosts:9.5
+ServersNumber:35  Density:1.0  replicacosts:19.3  cplexcosts:7.6  votecosts:8.083333333333332  degreecosts:10.466666666666667  randomcosts:11.333333333333334
+
+
+----Denstiy Test----
+ServersNumber:20  Density:1.0  replicacosts:9.7  cplexcosts:4.1  votecosts:4.316666666666667  degreecosts:5.733333333333333  randomcosts:6.033333333333334
+ServersNumber:20  Density:1.3  replicacosts:7.9  cplexcosts:3.1  votecosts:3.2666666666666666  degreecosts:5.75  randomcosts:5.416666666666666
+ServersNumber:20  Density:1.6  replicacosts:5.4  cplexcosts:2.341666666666667  votecosts:2.4333333333333336  degreecosts:4.35  randomcosts:3.953333333333333
+ServersNumber:20  Density:1.9000000000000001  replicacosts:3.7  cplexcosts:1.7333333333333336  votecosts:1.8083333333333336  degreecosts:2.56  randomcosts:2.7369047619047615
+ServersNumber:20  Density:2.2  replicacosts:3.4  cplexcosts:1.34  votecosts:1.3666666666666667  degreecosts:1.6266666666666665  randomcosts:2.1939285714285712
+ServersNumber:20  Density:2.5  replicacosts:2.7  cplexcosts:1.0766666666666667  votecosts:1.0766666666666667  degreecosts:1.1366666666666667  randomcosts:1.649047619047619
